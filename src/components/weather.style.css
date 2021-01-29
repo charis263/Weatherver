@@ -1,0 +1,15 @@
+.container {
+    margin-top: 1.2rem;
+    text-align: center;
+  }
+  
+  .container input,
+  .container ::-webkit-input-placeholder {
+    color: black;
+  }
+  .container input:focus {
+    box-shadow: none;
+    border: none;
+    border-bottom: 2px solid tomato;
+  }
+  /*focus for element that has focus and accepts user inputs*/

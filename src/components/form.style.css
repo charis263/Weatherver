@@ -1,0 +1,12 @@
+form {
+    margin-top: 3rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"] {
+    background-color: pink;
+    color: rgb(231, 30, 30);
+    border: none;
+    border-bottom: 2px solid rgb(10, 1, 1);
+    border-radius: 0;
+  }
