@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+README
+**Approach taken**
+This project is part of my SEI course under General Assembly.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This weather app is inspired by online weather checker app that provides real-time update of current weather. In order for real-time update of weather to be carried out, I obtained the API of current weather data from [https://openweathermap.org/api](https://openweathermap.org/api)
 
-## Available Scripts
+**How it works**
+Users are able to enter the website and key in their City and Country to check the current weather from the website.
 
-In the project directory, you can run:
+**Tools/technologies**
+There is no set requirement in this project other than to use the tools and knowledge learned during the course. Below are some of the tools and technologies adopted to build this project:
 
-### `yarn start`
+1) Type: Frontend using React library
+2) Framework: Bootstrap
+3) Language: JavaScript/XML
+4) Interface: API
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Challenges and how I tackled them**
+The main challenge that I faced initially was finding the right project idea to build given the time-frame and circumstances. With that I looked for Mr Google on different ideas and inspiration. The initial decision was to build an app inspired by Spotify due to my interest in music (but given my capacity, this will be something I will only be focusing on in future.)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+****Throughout the duration of building the project, I reviewed through many documentation and found out various ways and tools to build the project and even many functions could be integrated as well. Thus this project will continue to be expanded and modified as time goes on to further build more functions/features.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Website:** [http://weatherver.surge.sh/](http://weatherver.surge.sh/)
